@@ -13,7 +13,7 @@ The SCIM Reference Implementation and SDK can be downloaded from [https://www.un
 <dependency>
   <groupId>com.unboundid.product.scim</groupId>
   <artifactId>scim-sdk</artifactId>
-  <version>1.8.1</version>
+  <version>1.8.2</version>
 </dependency>
 }}}
 
@@ -308,7 +308,7 @@ If you need to provide your own implementations of any of the ResourceMapper, Tr
 <dependency>
   <groupId>com.unboundid.product.scim</groupId>
   <artifactId>scim-ldap</artifactId>
-  <version>1.8.1</version>
+  <version>1.8.2</version>
 </dependency>
 }}}
 
